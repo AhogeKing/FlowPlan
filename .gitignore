@@ -50,6 +50,8 @@ test/
 .env.*
 *.log
 *.local
+*.local.command
+.demo-logs/
 config/application-local.yml
 src/main/resources/application-local.yml
 application-local.yml
