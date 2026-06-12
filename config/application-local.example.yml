@@ -1,0 +1,4 @@
+app:
+  ai:
+    api-key: your-deepseek-api-key
+    audit-enabled: false
